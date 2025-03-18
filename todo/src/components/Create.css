@@ -1,0 +1,7 @@
+.create-div{
+    width: 50vw;
+    padding: 5vh 0 7vh 0;
+    display: flex;
+    justify-content: center;
+    gap: 1vw;
+}

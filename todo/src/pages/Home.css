@@ -1,0 +1,45 @@
+
+.home-div{
+    width: 100%;
+    padding-top: 5vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-div h2 {
+    margin-bottom: 1vw;
+}
+
+.pt-todo{
+    display: flex;
+    row-gap: 4vh;
+    padding: 2vh 0;
+}
+.todo-div{
+    background: #294e55;
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    width: 50vw;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 8vh;
+    border-radius: 10px;
+    row-gap: 4vh;
+}
+
+.todo-div button{
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 7vw;
+    height: 6vh;
+}
+
+.todo-div h3{
+    width: 30vw;
+}
+
